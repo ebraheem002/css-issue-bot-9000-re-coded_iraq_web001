@@ -14,7 +14,10 @@ h2 {
 }
 
 .completed {
+<<<<<<< HEAD
   font-size: 12px;
+=======
+>>>>>>> b591b7153c8eeaaee0e820232e5f695aa10cf7ef
   font-family: Arial;
 }
 
